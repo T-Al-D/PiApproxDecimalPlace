@@ -1,0 +1,1 @@
+from CheckInput.CheckInputForInt import check_input
