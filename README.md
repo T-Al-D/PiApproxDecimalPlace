@@ -10,4 +10,4 @@ the programm calculates how many steps it takes to calculate PI to a certain pre
 - https://pypi.org/project/Gooey/
 - https://www.youtube.com/watch?v=Szi8OgdWDWY
 
-This script was created with the cooperation of: Luca Alexander Schleiffer and Enis Akar
+This script was created with the cooperation of: BluMay (https://github.com/BluMay) and EN-AK (https://github.com/EN-AK) 
